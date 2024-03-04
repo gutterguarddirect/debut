@@ -8,6 +8,9 @@
     "sections": {
       "header": {
         "type": "header",
+        "custom_css": [
+          "h2 {font-size: 26px;}"
+        ],
         "settings": {
           "align_logo": "left",
           "logo": "shopify:\/\/shop_images\/logopng.png",
