@@ -10,7 +10,8 @@
         "type": "header",
         "custom_css": [
           "span.site-nav__label {font-weight: 600; font-size: 22px;}",
-          "span.site-nav__label.last-child {background-color: #e1aa4f; border-radius: 20px; color: #fff !important; padding: 0px 10px;}"
+          "span.site-nav__label:last-child {background-color: #e1aa4f; border-radius: 20px; color: #fff !important; padding: 0px 10px;}",
+          "span.site-nav__label:last-child {color: #fff !important;}"
         ],
         "settings": {
           "align_logo": "left",
