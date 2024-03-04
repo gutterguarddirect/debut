@@ -9,7 +9,7 @@
       "header": {
         "type": "header",
         "custom_css": [
-          "span.site-nav__label {font-weight: 600; font-size: 22px;}"
+          "span.site-nav__label {font-weight: 600; font-size: 22px; scrollbar-color: red yellow;}"
         ],
         "settings": {
           "align_logo": "left",
