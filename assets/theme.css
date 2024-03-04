@@ -2009,6 +2009,15 @@ textarea {
 
 .site-nav__link--button:focus, .site-nav__link--button:hover {
   color: var(--color-text-focus); }
+.site-nav__label:last-child {
+  background-color: #e1aa4f;
+  border-radius: 20px;
+  color: #fff !important;
+  padding: 0px 10px;
+}
+.site-nav__label:last-child {
+  color: #fff !important;
+}
 
 /*================ Dropdowns ================*/
 .site-nav--has-dropdown {
